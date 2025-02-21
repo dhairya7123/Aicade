@@ -1,9 +1,10 @@
-# Aicade
-##A project for internship at aicade 
-###Done significant changes to the game 
-##Changes include:-
-*Corrected the player direction
-*corrected the spawn rates of enemy 
-*Added animation for player moving earlier sprtie was static even while moving  although it still oved now i added a tilting animation
-*Added a new type of Enemy ("The enemy is a flying enemy spawns randomly")
-*the flying enemy follows the motion of a sinosidal wave
+## A Project for Internship at Aicade
+
+### Done Significant Changes to the Game
+
+## Changes Include:
+- Corrected the player direction
+- Corrected the spawn rates of the enemy
+- Added animation for player movement. Earlier the sprite was static even while moving, but now I added a tilting animation
+- Added a new type of enemy ("The enemy is a flying enemy spawns randomly")
+- The flying enemy follows the motion of a sinusoidal wave
